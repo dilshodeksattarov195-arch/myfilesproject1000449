@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailpecrypt",
+        "uuid": 3828174,
+        "checksum": "4svchs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
